@@ -3,6 +3,6 @@
 
 int momo(void) 
 {
-	int m = 1;
+	int m = 2;
 	return (m);
 }
